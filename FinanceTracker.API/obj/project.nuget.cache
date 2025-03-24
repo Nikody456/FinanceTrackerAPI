@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6do/RQFIy+8=",
+  "dgSpecHash": "DQNEmhVWkjk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\RiderProjects\\FinanceTracker.API\\FinanceTracker.API\\FinanceTracker.API.csproj",
+  "projectFilePath": "C:\\Users\\anton\\RiderProjects\\FinanceTrackerAPI\\FinanceTracker.API\\FinanceTracker.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
