@@ -1,0 +1,30 @@
+# build output
+bin/
+obj/
+
+# Rider config
+.idea/
+*.sln.iml
+
+# user-specific
+*.user
+*.userosscache
+*.suo
+*.vs/
+
+# logs
+*.log
+
+# temporary files
+*.tmp
+*.cache
+*.db
+*.pid
+*.lock
+
+# Visual Studio Code (на всякий)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
