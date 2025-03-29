@@ -1,10 +1,14 @@
-﻿namespace FinanceTracker.API.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace FinanceTracker.API.Models;
 
 public class Transaction
 {
     public int Id { get; set; }
     public decimal Amount { get; set; }
-    public string Type { get; set; }
-    public string Category { get; set; }
+    [MaxLength(50)]
+    public string? Type { get; set; }
+    [MaxLength(50)]
+    public string? Category { get; set; }
     public DateTime Date { get; set; }
 }
